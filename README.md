@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0052FF&height=150&section=header&text=Motasam%20Ahmad&fontSize=45&fontAlign=50&fontColor=FFFFFF&desc=IT%20Infrastructure%20%7C%20Software%20Engineering&descAlign=50&descSize=16" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0052FF&height=200&section=header&text=Motasam%20Ahmad&fontSize=48&fontAlign=40&fontColor=FFFFFF&desc=IT%20Infrastructure%20%7C%20Software%20Engineering&descAlign=65&descSize=18" alt="header"/>
 </p>
 
 <p align="center">
@@ -21,24 +21,20 @@
 </div>
 
 <p align="center">
-  <!-- Programming & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=py,dart,flutter,cs,php,js,ts,laravel,django,nodejs,html,css" height="48" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=py,dart,flutter,cs,php,js,ts,laravel,django,nodejs,html,css" height="38" alt="Programming Languages" />
   <br><br>
-  <!-- DevOps & OS -->
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode" height="48" alt="DevOps and OS" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode" height="38" alt="DevOps and OS" />
 </p>
 
 <p align="center">
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white" height="24">
   <br>
-  <!-- Networking Infrastructure -->
-  <img src="https://img.shields.io/badge/Mikrotik_RouterOS-232323?style=flat-square&logo=mikrotik&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Ubiquiti_Networks-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/OpenWrt-00A5E0?style=flat-square&logo=openwrt&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/WISP_Management-000000?style=flat-square&logo=wifi&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Mikrotik_RouterOS-232323?style=flat-square&logo=mikrotik&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/Ubiquiti_Networks-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/OpenWrt-00A5E0?style=flat-square&logo=openwrt&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/WISP_Management-000000?style=flat-square&logo=wifi&logoColor=white" height="24">
 </p>
 
 ---
@@ -54,7 +50,7 @@
     <th width="25%">Timeline</th>
   </tr>
   <tr align="center">
-    <td><b>IT Support & Network Admin</b><br><i>WISP Architecture & Bandwidth Control</i></td>
+    <td><b>IT & Software Developer</b><br><i>Flutter, Web & WordPress</i></td>
     <td><b>Sadeem Solution</b></td>
     <td>2021 ➔ 2026</td>
   </tr>
@@ -85,22 +81,8 @@
 ---
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
-</div>
-
-<p align="center">
-  <a href="https://github.com/MotasamAhmad">
-    <img src="https://github-readme-stats.vercel.app/api?username=MotasamAhmad&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00A3FF&text_color=A1B2C3&icon_color=00A3FF&ring_color=00A3FF" alt="stats" width="48%" />
-  </a>
-  <a href="https://github.com/MotasamAhmad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotasamAhmad&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00A3FF&text_color=A1B2C3" alt="top languages" width="48%" />
-  </a>
-</p>
-
----
-
-<div align="center">
   <h3>📬 Let's Connect</h3>
+  <br>
   <a href="mailto:motasamdv@gmail.com">
     <img src="https://img.shields.io/badge/Email-motasamdv%40gmail.com-0052FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
