@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👨‍💻 System.Info
 
-<!--
-**MotasamAhmad/MotasamAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Motasam(NetworkAdmin, SoftwareDeveloper):
+    def __init__(self):
+        self.name = "Motasam Ahmad"
+        self.location = "Yemen 🇾🇪"
+        self.focus = [
+            "Full-Stack Development", 
+            "WISP Architecture & Bandwidth Control", 
+            "IT Support & ERP Systems"
+        ]
+        self.tech_arsenal = {
+            "Frameworks": ["Flutter", "Django", "Laravel"],
+            "Networking": ["Mikrotik RouterOS", "Ubiquiti", "OpenWrt"],
+            "Databases": ["MySQL", "SQL Server", "Oracle APEX"]
+        }
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def execute_mission(self):
+        return "Building robust networks and seamless software solutions."
